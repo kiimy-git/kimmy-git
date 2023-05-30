@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Kimmy!
+# Hi there 👋, I'm Kimy!
 ### * 🌱 I’m currently learning Python, OpenCV, Deep-Learning, Machine-Learning
 <!--
 **kimmy-git/kimmy-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
